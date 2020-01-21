@@ -5,13 +5,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student {
 
     private String name;
-   
     private String email;
     private String city;
-
-   
-
-   
     public String getEmail() {
         return email;
     }
