@@ -1,22 +1,17 @@
 package ca.sheridancollege.week1.softwarefundamentals;
-//to canjidwuinevidouvnowesz
-//hcuwucwuhwiwebweb
+//weciwhichiwhfcifhwhfwhbciuhbwicwbbiawbcbiwbcbwjkwejkckjwckjbkwbcbkwbckbwk
+//wjcjnwfjcownnawocfew
 
 public class Student {
 
     private String name;
-    private int gpa;
+   
     private String email;
     private String city;
 
-    public int getGpa() {
-        return gpa;
-    }
+   
 
-    public void setGpa(int gpa) {
-        this.gpa = gpa;
-    }
-
+   
     public String getEmail() {
         return email;
     }
