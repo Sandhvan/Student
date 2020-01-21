@@ -1,6 +1,4 @@
 package ca.sheridancollege.week1.softwarefundamentals;
-//weciwhichiwhfcifhwhfwhbciuhbwicwbbiawbcbiwbcbwjkwejkckjwckjbkwbcbkwbckbwk
-//wjcjnwfjcownnawocfew
 
 public class Student {
 
